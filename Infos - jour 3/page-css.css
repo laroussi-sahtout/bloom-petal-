@@ -1,0 +1,80 @@
+.Principal-Title {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 5rem;
+}
+.Titre {
+    text-align: center;
+    background-color: blanchedalmond;
+    font-family: cursive;
+}
+.A-propos  { 
+    text-align: ;
+    text-decoration: underline;
+    color: orange;
+    font-size: 2rem;
+}
+.P-1 {
+    display: flex;
+    flex-direction: row;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+}
+.header {
+    background-color: rosybrown; 
+    padding: 20px; 
+    font-size: 30px;
+}
+.Images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+.Service {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    ;
+
+}
+.P1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Images2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: last baseline;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+.recherche {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 40px;
+}
+.Lien a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+
+input[type=text] {
+    width: 400px;
+    padding: 10px;
+    border: 2px solid #3498db;
+    border-radius: 25px; 
+    font-family: "Impact", sans-serif; 
+    font-size: 20px;
+    outline: none; 
+}
+body {
+    background-color: chartreuse;
+}
